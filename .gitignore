@@ -1,0 +1,16 @@
+*.o
+*.lo
+jpegtran
+*.pc
+*.la
+libtool
+rdjpgcom
+stamp-h1
+wrjpgcom
+cjpeg
+djpeg
+.libs/
+.deps/
+config.log
+config.status
+
