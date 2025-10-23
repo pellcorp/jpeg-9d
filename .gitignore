@@ -3,6 +3,8 @@
 jpegtran
 *.pc
 *.la
+Makefile
+jconfig.h
 libtool
 rdjpgcom
 stamp-h1
